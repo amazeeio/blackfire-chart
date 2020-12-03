@@ -3,7 +3,19 @@ entries:
   blackfire:
   - apiVersion: v1
     appVersion: 1.17.0
-    created: "2020-12-02T19:29:07.12469-05:00"
+    created: "2020-12-02T20:42:11.378605-05:00"
+    description: An unofficial Helm chart for Blackfire.io
+    digest: aa0e587b95c01f6ddd96eb1c147e1f8178f8af653dc8f5a9febc047be1ea5fbf
+    home: https://blackfire.io/
+    name: blackfire
+    sources:
+    - http://blackfire.io
+    urls:
+    - https://raw.githubusercontent.com/amazeeio/blackfire-chart/master/blackfire-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
+    appVersion: 1.17.0
+    created: "2020-12-02T20:42:11.378236-05:00"
     description: An unofficial Helm chart for Blackfire.io
     digest: 301270831be0c30a8ab243200dd0d6186193400fa61c281e38fbc11136a287f6
     home: https://blackfire.io/
@@ -15,9 +27,9 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 1.17.0
-    created: "2020-12-02T19:29:07.124358-05:00"
+    created: "2020-12-02T20:42:11.377298-05:00"
     description: An unofficial Helm chart for Blackfire.io
-    digest: a7e35143b66564930060789d882424cb259a8227ecf2cbc8c95c8f9eb8784154
+    digest: 0e62f22409bdda6124909a345c3b7a9bbfc307feb21ba597953f3f8c37f5de89
     home: https://blackfire.io/
     name: blackfire
     sources:
@@ -27,7 +39,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.17.0
-    created: "2020-12-02T19:29:07.124049-05:00"
+    created: "2020-12-02T20:42:11.376619-05:00"
     description: An unofficial Helm chart for Blackfire.io
     digest: 81518932ca861b63d97c3d27e95755da16c561b1d861832a3b7239770dd3129e
     home: https://blackfire.io/
@@ -40,7 +52,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2020-12-02T19:29:07.123767-05:00"
+    created: "2020-12-02T20:42:11.376084-05:00"
     description: An unofficial Helm chart for Blackfire.io
     digest: 5b7ab97c5520461806478d2cb74bd3bcc2f8bb33068ff7264cc4c63acdc995a5
     home: https://blackfire.io/
@@ -51,4 +63,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/amazeeio/blackfire-chart/master/blackfire-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-02T19:29:07.121287-05:00"
+generated: "2020-12-02T20:42:11.375476-05:00"
